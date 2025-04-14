@@ -1,1 +1,51 @@
+/* Dark Theme Styles */
+:root {
+  --primary: #58a6ff;
+  --bg: #0d1117;
+  --text: #c9d1d9;
+  --border: #30363d;
+}
 
+body {
+  font-family: 'Courier New', monospace;
+  background-color: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #79b8ff;
+}
+
+h1, h2, h3 {
+  color: var(--primary);
+  margin-top: 1.5em;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.3em;
+}
+
+/* Project cards */
+.project {
+  background-color: #161b22;
+  padding: 15px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  border-left: 3px solid var(--primary);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  body {
+    padding: 15px;
+  }
+}
