@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="/assets/css/style.css">
 # <span style="color:#58a6ff">Ann Mariya Benny</span>
 **<span style="color:#8b949e">AI & Robotics MSc Student | Hof University, Germany</span>**
 
