@@ -4,6 +4,7 @@ layout: default
 
 <link rel="stylesheet" href="/assets/css/style.css">
 # <span style="color:#58a6ff">Ann Mariya Benny</span>
+**<span style="color:#8b949e">Junior Software Developer</span>**
 **<span style="color:#8b949e">AI & Robotics MSc Student | Hof University, Germany</span>**
 
 ![Profile Image](/assets/images/profile.jpg){:style="width:150px; border-radius:50%; margin:20px 0;"}
@@ -43,7 +44,7 @@ I'm a Master's student in **AI & Robotics** at Hof University with **2.5 years o
 Web app for employee skill development with customized courses.  
 - Developed backend APIs for course management.
 
-### GoiFomo
+### GoTFomo
 **Node.js | AWS**  
 B2B platform connecting content creators with brands.  
 - Implemented payment gateway integration.
