@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Ann Mariya Benny's Portfolio
-description: AI & Robotics MSc Student
+title: Ann Mariya Benny
+description: AI & Robotics MSc Student | Hof University
+theme: jekyll-theme-hacker # Dark theme built into GitHub
+show_downloads: false
